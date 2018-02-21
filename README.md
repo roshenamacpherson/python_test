@@ -8,7 +8,7 @@ environments
 ```
 $ ./bootstrap.sh
 $ source venv/bin/activate
-$ # Run your binary of choice, e.g.:
+$ # Run your binary of choice
 ```
 
 ## Python Compatibility
