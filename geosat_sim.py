@@ -1,7 +1,7 @@
 import numpy as np
 
-from simulation import Simulation
-from spacecraft import Spacecraft
+from geosat.simulation import Simulation
+from geosat.spacecraft import Spacecraft
 
 sim_duration = 100
 sim_timestep = .1
