@@ -1,6 +1,6 @@
 import numpy as np
 
-from geosat.simulation import Simulation
+from geosat.sim.simulation import Simulation
 from geosat.spacecraft import Spacecraft
 
 sim_duration = 100
